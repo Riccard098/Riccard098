@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Riccard098
+- 👀 I’m interested in nature, scouting, fantasy books/movies/videogames, music, and many other things
+- 🌱 I’m currently learning how to use R to visualize and study satellite imagery
+- 📫 How to reach me? Well, you can write me an email at biaginiriccardo98@gmail.com
